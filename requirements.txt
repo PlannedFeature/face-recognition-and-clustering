@@ -1,0 +1,7 @@
+dlib==19.23.1
+numpy==1.18.1
+psycopg2==2.8.4
+scikit_learn==1.0.2
+autopep8===1.6.0
+pylint===2.13.4
+opencv-python==4.5.5.64
